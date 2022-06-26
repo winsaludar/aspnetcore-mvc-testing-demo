@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EmployeeApp.Tests/bin/Debug/net6.0
+/EmployeeApp.Tests/obj
+/EmployeesApp/bin/Debug/net6.0
+/EmployeesApp/obj
+/EmployeesApp.AutomatedUITests/bin/Debug/net6.0
+/EmployeesApp.AutomatedUITests/obj
+/EmployeesApp.IntegrationTests/bin/Debug/net6.0
+/EmployeesApp.IntegrationTests/obj
